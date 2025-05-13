@@ -1,0 +1,17 @@
+.box{
+  background: linear-gradient(154.48deg, #2A5AF7 4.61%, #AB229B 78.86%);
+  min-height: 100vh;
+  padding: 30px;
+}
+.ota{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+h1{
+  color: white;
+  font-size: 60px;
+  margin-bottom: 30px;  
+}
